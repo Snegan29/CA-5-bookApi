@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './App.css';
 import ErrorImage from './images/error.avif'
-import Logo from './images/Mainlogo.svg'
+import Logo from './images/Group 1.svg'
 import SimpleForm from './component/SimpleForm';
 
 function App() {
