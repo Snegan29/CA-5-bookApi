@@ -9,9 +9,8 @@
   align-items: center;
   justify-content: space-around;
   background: rgb(7, 7, 7);
-  height: 90  px;
+  height: 90px;
   padding: 37px;
-  width: 100%;
   /* border-radius: 2px; */
 }
 
@@ -66,7 +65,7 @@ img {
   grid-template-columns: repeat(6,1fr);
   gap: 20px 20px;
   margin: 50px ;
-  grid-auto-flow: row;
+  flex-wrap: wrap;
 }
 
 
